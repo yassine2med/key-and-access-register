@@ -1,0 +1,9 @@
+key_id,description,area,copies
+MK-001,Building master,All floors,2
+K-101,Suite 101 entry,Level 1,3
+K-102,Suite 102 entry,Level 1,2
+K-201,Suite 201 entry,Level 2,3
+RM-MECH,Mechanical room,Basement,2
+RM-ELEC,Electrical room,Basement,2
+RF-HATCH,Roof hatch,Roof,1
+GR-GATE,Parking garage gate,Garage,4

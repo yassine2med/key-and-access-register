@@ -1,0 +1,16 @@
+key_id,copy,holder,issued,due_back,returned
+MK-001,1,Facilities Manager,2026-01-05,,
+MK-001,2,Security Desk,2026-01-05,,
+K-101,1,Tenant Suite 101,2026-03-01,,
+K-101,2,Tenant Suite 101,2026-03-01,,
+K-102,1,Tenant Suite 102,2026-04-15,,
+K-201,1,Tenant Suite 201,2026-05-01,,
+K-201,2,Cleaning Contractor,2026-11-02,2026-11-09,
+RM-MECH,1,HVAC Contractor,2026-11-10,2026-11-14,
+RM-MECH,2,Engineer on Call,2026-06-01,,
+RM-ELEC,1,Electrical Contractor,2026-11-17,2026-11-20,
+RM-ELEC,2,Electrical Contractor,2026-10-12,2026-10-16,2026-10-15
+RF-HATCH,1,Roofing Vendor,2026-11-03,2026-11-10,
+GR-GATE,1,Maintenance Lead,2026-02-02,,
+GR-GATE,2,Security Desk,2026-02-02,,
+GR-GATE,3,Parking Vendor,2026-11-18,2026-11-25,
