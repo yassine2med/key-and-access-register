@@ -2,6 +2,8 @@
 
 # key-and-access-register
 
+[![CI](https://github.com/yassine2med/key-and-access-register/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/key-and-access-register/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Keys go missing quietly: a contractor borrows the mechanical room key for a day and it is still in a truck three weeks later. This repo keeps a register of every key and every copy, records who holds which copy, and lists what is past its due date, worst first.
 
 ![Screenshot](docs/screenshot.png)
