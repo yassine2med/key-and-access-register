@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="key-and-access-register" width="100%"></p>
+
 # key-and-access-register
 
 Keys go missing quietly: a contractor borrows the mechanical room key for a day and it is still in a truck three weeks later. This repo keeps a register of every key and every copy, records who holds which copy, and lists what is past its due date, worst first.
